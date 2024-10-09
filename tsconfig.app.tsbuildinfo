@@ -1,0 +1,1 @@
+{"root":["./src/animatepreview.tsx","./src/app.tsx","./src/playcontroller.tsx","./src/main.tsx","./src/transform.ts","./src/vite-env.d.ts","./src/base/file.ts","./src/base/image.ts","./src/base/hooks/async.ts","./src/base/hooks/node.ts","./src/base/hooks/utils.ts"],"version":"5.6.2"}
